@@ -1,2 +1,2 @@
 # auth0_react
-As a project
+Login button with auth Facebook and Google using node package.
